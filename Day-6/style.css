@@ -1,0 +1,38 @@
+*{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+h1,h3{
+    color: red;
+}
+#login{
+    background-color: white;
+    color:black;
+}
+#signup{
+    background-color:red;
+    color:white;
+} 
+.upvote{
+    background-color: green;
+    color:whitesmoke;
+
+}
+.post a{
+    color:purple;
+    background-color:yellow;
+}
+nav ul li a{
+    color:hotpink;
+}
+.upvote+button{
+    background-color: cornflowerblue;
+}
+div>input{
+    background-color:ghostwhite;
+}
+input[type="password"]{
+    color:blue;
+}
+input[type="text"]{
+    color: red;
+}

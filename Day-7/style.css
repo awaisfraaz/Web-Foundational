@@ -1,0 +1,24 @@
+div{
+    height: 200px;
+    width: 500px;
+    /* border-width:2px;
+    border-color: black;
+    border-style: dotted; */
+    background-color: pink;
+    /* boder shorthand */
+    border: 2px dotted black;
+    border-radius: 15px;
+    padding: 10px;
+    margin: 5px;
+    padding-left:15px;
+    padding-top: 15px;
+    
+    
+}
+h1{
+    border: 2px dashed green;
+    border-left-color: blue;
+    border-right-color: red;
+    border-top-color: rgb(197, 197, 34);
+    border-bottom-color: purple;
+}

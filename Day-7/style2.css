@@ -1,0 +1,48 @@
+/* h1{
+
+    display:inline;
+}
+span{
+    display: block;
+} */
+div{
+  
+
+}
+#one{
+    height: 70px;
+    width: 20%;
+    background-color: rgb(70, 44, 12);
+    border: 2px solid black;
+    display: inline-block;
+}
+#two{
+    height: 70px;
+    width: 20%;
+    background-color: rgb(70, 44, 12);
+    border: 2px solid black;
+    display: inline-block;
+}
+
+#three{
+    height: 70px;
+    width: 20%;
+    background-color: rgb(70, 44, 12);
+    border: 2px solid black;
+    display: inline-block;
+}
+
+#four{
+height: 70px;
+    width: 20%;
+    background-color: rgb(70, 44, 12);
+    border: 2px solid black;
+    display: inline-block;
+}
+#five{
+height: 70px;
+    width: 20%;
+    background-color: rgb(70, 44, 12);
+    border: 2px solid black;
+    display: inline-block;
+}

@@ -36,3 +36,13 @@ input[type="password"]{
 input[type="text"]{
     color: red;
 }
+/* peusod class */
+button:hover{
+    background-color: black;
+    color:whitesmoke;
+    
+}
+p:active{
+    background-color:hotpink;
+    font-weight: bold;
+}

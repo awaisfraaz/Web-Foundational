@@ -1,38 +1,52 @@
-# Web-Foundational
+# Web Foundational
 
-## Description
+## Overview
 
-**Web-Foundational** is a beginner-friendly repository that provides foundational knowledge and hands-on examples for learning HTML and core web development concepts. The repository contains a collection of simple HTML files, each demonstrating a fundamental topic or element of web development, making it ideal for students, newcomers, or anyone interested in getting started with building web pages.
-
-## Features
-
-- **HTML Basics:** Examples of key HTML elements such as headings, paragraphs, links, images, lists, tables, forms, divs, spans, and more.
-- **Block vs Inline Elements:** Illustrations and explanations of the difference between block and inline HTML elements.
-- **HTML Entities:** Demonstrates the use of HTML entities to display reserved characters and special symbols.
-- **Forms and Inputs:** Shows how to use various HTML form controls like text, password, email, number, date, checkbox, radio, range, and file inputs.
-- **Tables:** Contains multiple table examples, including structured data tables and food menus with different formatting features.
-- **Portfolio Example:** A basic portfolio template for practice and understanding page structure.
-
-## Technologies Used
-
-- **HTML5:** The core language used throughout the repository.
-- *(Some files may reference CSS or external educational sites for additional learning, but the main focus is on HTML.)*
-
-## Getting Started
-
-1. Clone or download the repository.
-2. Open any `.html` file in your web browser to view the example.
-3. Explore the files in each "Day-" folder to follow a progressive learning path.
-
-## Intended Usage
-
-- For self-study, classroom teaching, or as a reference for common HTML structures.
-- Suitable for exercises, assignments, or tutorials on basic web development.
-
-## Author
-
-- [Awais Fraaz](https://github.com/awaisfraaz)
+This repository documents the journey of mastering foundational web development concepts over an 11-day challenge. It covers essential topics in HTML and CSS, providing a strong basis for building modern web applications. The content is structured to ensure progressive learning, starting from basic HTML structures to advanced CSS techniques like animations and responsive designs.
 
 ---
 
-Feel free to use, modify, or expand upon these examples to enhance your learning of web development!
+## Topics Covered
+
+### HTML
+- **Structure**: How to create the structure of a web page.
+- **Tags in HTML**: Learning about various tags in HTML like `<h1>`, `<p>`, `<a>`, `<img>` etc.
+- **Block vs Inline**: Understand the difference between inline and block HTML elements.
+- **Tables**: Learn to create tables in HTML.
+- **Forms**: Learn about forms and form fields.
+
+### Intro to CSS
+- **Introduction**: What is CSS & how to use it in HTML, different styles of writing.
+
+### Selectors in CSS
+- **Understanding Selectors**: Element, Class & Id selectors etc., combinators, pseudo classes, pseudo elements, specificity in CSS.
+- **Selector Specificity**: Understanding the specificity & priority of CSS selectors.
+
+---
+
+### Frontend
+
+#### Styling with CSS
+- **Box Model**: Understanding the CSS box model.
+- **CSS Units**: Learning about various CSS units used to style HTML elements, absolute & relative.
+
+#### More CSS
+- **CSS Transition**: Understanding element transitions in CSS along with shorthand.
+- **CSS Transforms**: Understanding element transformations in CSS along with shorthand.
+
+#### Flexbox
+- **Intro to Flex**: Understanding flexbox layout, cross axis, main axis etc.
+- **Flex properties**: Flexbox direction, justify content, align items, align self, flexwrap, flex sizing, etc.
+
+#### Responsive Designs
+- **Media Queries**: Learn about Media Queries & Viewport.
+- **Animations & 3d Space**: Basics of CSS animation and how to animate HTML elements using animate.css.
+
+---
+
+## Challenge Details
+
+This repository represents an 11-day web foundational challenge. Each day was dedicated to exploring a specific set of concepts, enabling focused learning and hands-on practice.
+
+---
+

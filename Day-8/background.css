@@ -1,0 +1,36 @@
+.picture{
+    width: 250px;
+    height: 200px;
+    display: inline-block;
+    border: 1px solid black;
+    margin: 10px;
+    background-size: auto;
+    border-radius: 11px;
+    border:1px ;
+    
+}
+img{
+    width: 100%;
+    height: 100%;
+    border-radius: 5%;
+}
+*{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.main{
+    display: inline-block;
+    border: 1px solid black;
+    border-radius: 11px;
+    margin:10px;
+    box-shadow: 1px 1px 1px 1px rgb(143, 140, 140);
+     
+}
+.main:hover{
+transform: scale(1.10);
+}
+#heading{
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}

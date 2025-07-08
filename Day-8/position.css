@@ -1,0 +1,33 @@
+div{
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    background-color: green;
+    border: 2px solid black;
+    display: inline-block;
+
+}
+#static{
+    position: static;
+    top: 100px;
+    left: 100px;
+    background-color: blueviolet;
+}
+#relative{
+    position: relative;
+     top: 100px;
+    left: 100px;
+     background-color: blueviolet;
+}
+#absolutes{
+    position: absolute;
+     top: 100px;
+    left: 100px;
+     background-color:lightslategrey;
+}
+#fix{
+      position: fixed;
+     top: 100px;
+    left: 100px;
+     background-color:rgb(1, 72, 143);
+}

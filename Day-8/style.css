@@ -1,0 +1,69 @@
+
+/*  Alpha channel  to set color opacity */
+#one{
+    height: 70px;
+    width: 20%;
+    background-color: rgb(70, 44, 12, 0.5);
+    border: 1.5px solid black;
+    display: inline-block;
+    transition: 0.5s;
+
+}
+#two{
+    height: 70px;
+    width: 20%;
+    background-color: rgb(70, 44, 12,0.75);
+    border: 1.5px solid black;
+    display: inline-block;
+    transition: 0.5s;
+}
+#one:hover{
+    background-color: rgb(70, 44, 12);
+    border-radius: 50%;
+}
+#two:hover{
+    background-color: rgb(70, 44, 12);
+    border-radius: 50%;
+    
+}
+#three{
+    height: 70px;
+    width: 20%;
+    background-color: rgb(70, 44, 12);
+    border: 1.5px solid black;
+    display: inline-block;
+   
+}
+#four{
+    height: 70px;
+    width: 20%;
+    background-color: rgb(70, 44, 12);
+    border: 1.5px solid black;
+    display: inline-block;
+}
+#five{
+    height: 70px;
+    width: 20%;
+    background-color: rgb(70, 44, 12);
+    border: 1.5px solid black;
+    display: inline-block;
+     transform:rotate(-60deg)
+}
+#four:hover{
+    transform: scale(1.10);
+}
+#three:hover{
+    transform: skew(30deg);
+}
+#six{
+     height: 70px;
+    width: 20%;
+    background-color: rgb(70, 44, 12, 0.5);
+    border: 1.5px solid black;
+    display: inline-block;
+    box-shadow: 1px 1px 1px 1px black;
+    transition: 0.5s;
+}
+#six:hover{
+    box-shadow: 10px 10px 10px 10px black;
+}

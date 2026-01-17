@@ -1,0 +1,26 @@
+*{
+
+
+    /* background-image:url();
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed; */
+    background-color: rgb(211, 165, 254);
+    /* background-position: 500px; */
+
+    /* margin collapse porblem in CSS */
+}
+a[target="_blank"]{
+    color: red;
+    text-decoration: none;
+}
+.one{
+    width: 500px;
+    height: 500px;
+    background-image: url();
+    background-size: cover;
+    /* mix-blend-mode: color-dodge; */
+    z-index: -10;
+    backdrop-filter: var();
+
+}
